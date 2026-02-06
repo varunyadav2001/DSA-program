@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main(){
-    int a[5]={12,23,34,43,45};
+    int a[5]={12,85,34,43,45};
     int lr=0,up=4,low=0,mid,f=0,item;
 
     printf("enter a any element item:");
